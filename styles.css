@@ -1,0 +1,72 @@
+ html {
+     font-family: sans-serif;
+ }
+
+ body {
+     background-color: #6a040ef6;
+     color: #99582a;
+     font-weight: bold;
+ }
+
+ .wrapper{
+    width: 40%;
+    height: 70vh;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #fff3b0;
+    border-radius: 20px;
+ }
+ h1{
+    color: #99582a;
+    margin: 0px 90px 0px 110px;
+    padding-top: 30px;
+ }
+ hr#line{
+    border: 1px solid #6a040ef6;
+ }
+
+ .mini-wrapper{
+    margin: 20px 15px 10px 15px;
+ }
+ 
+ .mini-wrapper p{
+    text-align: center;
+    line-height: 1.7;
+ }
+
+ .form{
+    text-align: center;
+ }
+ .form input[type="number"] {
+     width: 200px;
+ }
+
+ .lastResult {
+     color: white;
+     padding: 3px;
+ }
+
+ button{
+    margin:0px 600px;
+    position: relative;
+    top: -70px;
+    background-color: brown;
+    color: #fff3b0;
+    font-size: medium;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-color: #99582a;
+ }
+
+ .lastResult{
+    border-radius: 5px;
+ }
+
+ .guessSubmit{
+    background-color: brown;
+    padding: 0px 3px;
+    color: #fff3b0;
+    border-radius: 4px;
+ }
